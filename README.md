@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rehan Tariq</h1>
-<p align="center"> <img src="https://miro.medium.com/v2/resize:fit:996/0*sp42a5GmqT_VavSq.gif" alt="rehan-trq" /> </p>
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 <p align="center">🎯 Reach me at <strong>muhammadrehantariq@gmail.com</strong></p>
 <hr>
@@ -18,7 +18,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rehan-trq&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-trq" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehan-trq" alt="rehan-trq" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehan-trq&theme=darkhub" alt="rehan-trq" /></a> </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-trq&" alt="rehan-trq" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehan-trq&show_icons=true&locale=en&theme=black&layout=compact" alt="rehan-trq" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-trq&theme=dark" alt="rehan-trq" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehan-trq&show_icons=true&locale=en&theme=dark&layout=compact" alt="rehan-trq" /></p>
