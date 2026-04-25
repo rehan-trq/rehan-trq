@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Rehan+Tariq;AI+%2F+ML+Engineer+%C2%B7+MLOps+%C2%B7+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=500&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey+There!+I+am+Rehan+Tariq!;AI+%2F+ML+Engineer+%C2%B7+MLOps+%C2%B7+Cloud" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,9 +14,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rehan-trq&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-trq&theme=dark&hide_border=true&background=0D1117" height="160"/>
+  <p>CS student at FAST-NUCES Islamabad. I work across AI/ML, cloud, and backend systems.<br/>
+  From model training to production deployment, building things that learn, scale, and hold up in the real world.</p>
 </div>
 
 <br/>
@@ -43,12 +42,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehan-trq&theme=github_dark&layout=compact&hide_border=true&langs_count=8" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-trq&theme=dark&hide_border=true&background=0D1117" height="160"/>
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rehan-trq&theme=darkhub&no-frame=true&column=7&margin-w=4"/>
-  </a>
-</div>
