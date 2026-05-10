@@ -41,7 +41,7 @@
 ---
 <div align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=hasnain1241&theme=radical" alt="rehan-trq" />
+        <img src="https://github-profile-trophy.vercel.app/?username=rehan-trq&theme=radical" alt="rehan-trq" />
     </a> 
 </div>
 
